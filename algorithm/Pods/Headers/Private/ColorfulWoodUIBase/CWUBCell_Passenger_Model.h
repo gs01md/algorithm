@@ -1,0 +1,1 @@
+../../../ColorfulWoodUIBase/ColorfulWoodUIBase/ColorfulWoodUIBase/CocoapodFiles/CWUBModules_Custom/CWUBCell_Passenger/CWUBCell_Passenger_Model.h

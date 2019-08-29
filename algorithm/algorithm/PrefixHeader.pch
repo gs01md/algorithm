@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  algorithm
+//
+//  Created by 大新 on 2019/8/29.
+//  Copyright © 2019 com.wood.colorful. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#import "AModelFirstVC.h"
+#import <ColorfulWoodUIBase/ColorfulWoodUIBase.h>
+#import <ColorfulWoodTools/ColorfulWoodTools.h>
+
+#endif /* PrefixHeader_pch */

@@ -1,0 +1,11 @@
+
+platform :ios, '9.0'
+
+inhibit_all_warnings!
+
+target 'algorithm' do
+
+  pod 'ColorfulWoodUIBase'
+
+  pod 'ColorfulWoodTools'                     #弹窗提示等
+end

@@ -1,0 +1,1 @@
+../../../ColorfulWoodUIBase/ColorfulWoodUIBase/ColorfulWoodUIBase/CocoapodFiles/CWUBModules/CWUBCell_TitleTop_TitleBottom_ImgRight/CWUBCell_TitleTop_TitleBottom_ImgRight_Model.h
